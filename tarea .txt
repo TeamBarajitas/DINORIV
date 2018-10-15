@@ -1,0 +1,4 @@
+-simular un inicio de sesión con los datos
+	usuario y contraseña
+-La primera vez que se inicia sesión se piden los datos al usuario y se muestra
+el mensaje "Se sesión inicia =)" y el usuario activo;
