@@ -1,1 +1,1 @@
-PROCESO_DESARROLLO
+Carpeta que contiene el código fuente de la aplicación.

@@ -1,2 +1,1 @@
-# DINORIV
-DINOSAURIOS DE ORIZABA VIRTUALES
+Carpeta que contiene las bitácoras correspondientes al mes de febrero.

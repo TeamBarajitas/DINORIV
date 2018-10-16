@@ -1,2 +1,1 @@
-# DINORIV
-DINOSAURIOS DE ORIZABA VIRTUALES
+ Carpeta que contiene los documentos relacionados a la administración del proyecto.

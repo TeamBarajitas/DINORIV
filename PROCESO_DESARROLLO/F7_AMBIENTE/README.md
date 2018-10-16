@@ -1,1 +1,1 @@
-PROCESO_DESARROLLO
+Carpeta que contiene los artefactos del ambiente de desarrollo

@@ -1,2 +1,1 @@
-# DINORIV
-DINOSAURIOS DE ORIZABA VIRTUALES
+Carpeta que contiene: Documento que describe el plan general para el desarrollo del proyecto
